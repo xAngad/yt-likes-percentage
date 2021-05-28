@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Show Likes and Dislikes as Percentages",
+  "version": "1.0.0",
+  
+  "description": "Show the number of likes and dislikes on a YouTube video as percentages of a whole, rather than numbers",
+  
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "css": ["styles.css"],
+      "js": ["script.js"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "page_action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }
+}
+  
