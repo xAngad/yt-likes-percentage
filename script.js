@@ -16,5 +16,5 @@ function show_percentage() {
 }
 
 window.addEventListener('load', function () {
-  setInterval(show_percentage, 500);
+  setInterval(show_percentage, 250);
 })
