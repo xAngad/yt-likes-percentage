@@ -11,7 +11,7 @@ This was created anticipating YouTube's removal of the dislike count for videos,
 4. Click "Load unpacked" on the top left
 5. Navigate to the unzipped / cloned repository on your local storage
 6. Click on the root folder once, and "Select" in your navigation window
-7. Open any [YouTube](https://www.youtube.com/) video to see it work!
+7. Open any [YouTube video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) video to see it work!
 
 ## Demo 
 
