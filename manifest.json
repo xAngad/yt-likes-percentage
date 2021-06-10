@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Show Likes and Dislikes as Percentages",
-  "version": "1.0.0",
+  "version": "1.1",
   
   "description": "Show the number of likes and dislikes on a YouTube video as percentages of a whole, rather than numbers",
   
