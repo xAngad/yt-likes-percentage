@@ -13,6 +13,8 @@ This was created anticipating YouTube's removal of the dislike count for videos,
 6. Click on the root folder once, and "Select" in your navigation window
 7. Open any [YouTube video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) video to see it work!
 
+If it has any bugs, just reload the page. Something on YouTube's side can add an extra entry to the `sentiments` list, which results in the wrong labels being updated. Reloading returns `sentiments` to its correct length. :grinning:
+
 ## Demo 
 
 ![Screenshot](./screenshots/like.png)
