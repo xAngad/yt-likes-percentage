@@ -1,5 +1,4 @@
 function show_percentage() {
-    // Gets a rough percentage based on width of like bar
     const likes = parseInt(document.getElementById("like-bar").style.width);
     const dislikes = 100 - likes;
 
@@ -32,7 +31,6 @@ function show_percentage() {
     }
 }
 
-// Repeatedly applies {show_percentage} once the page is loaded
 window.addEventListener('load', function () {
     setInterval(show_percentage, 250);
 })
