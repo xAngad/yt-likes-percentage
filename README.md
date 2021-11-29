@@ -1,3 +1,4 @@
+# TEMPORARILY DEPRECATED
 # Show Likes and Dislikes as Percentages
 
 This is a Google Chrome extension for [YouTube](https://www.youtube.com/), that displays viewer sentiment metrics (ie. likes and dislikes) as percentages rather than numbers. 
